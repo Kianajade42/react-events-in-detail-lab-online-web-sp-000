@@ -13,4 +13,3 @@ this.props.delay);
     }
 }
 export default DelayedButton;
-
